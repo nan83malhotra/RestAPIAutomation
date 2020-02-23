@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="3" passed="3">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Suite" duration-ms="9973" started-at="2020-02-23T13:51:04Z" finished-at="2020-02-23T13:51:14Z">
+    <groups>
+    </groups>
+    <test name="Test" duration-ms="9973" started-at="2020-02-23T13:51:04Z" finished-at="2020-02-23T13:51:14Z">
+      <class name="RestAPITest.AssurityTestAPI">
+        <test-method status="PASS" signature="Configuration()[pri:0, instance:RestAPITest.AssurityTestAPI@482f8f11]" name="Configuration" is-config="true" duration-ms="8588" started-at="2020-02-23T13:51:04Z" finished-at="2020-02-23T13:51:12Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Configuration -->
+        <test-method status="PASS" signature="acceptanceCriteria1()[pri:0, instance:RestAPITest.AssurityTestAPI@482f8f11]" name="acceptanceCriteria1" duration-ms="1005" started-at="2020-02-23T13:51:12Z" finished-at="2020-02-23T13:51:13Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- acceptanceCriteria1 -->
+        <test-method status="PASS" signature="acceptanceCriteria2()[pri:1, instance:RestAPITest.AssurityTestAPI@482f8f11]" name="acceptanceCriteria2" duration-ms="39" started-at="2020-02-23T13:51:13Z" finished-at="2020-02-23T13:51:13Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- acceptanceCriteria2 -->
+        <test-method status="PASS" signature="acceptanceCriteria3()[pri:2, instance:RestAPITest.AssurityTestAPI@482f8f11]" name="acceptanceCriteria3" duration-ms="285" started-at="2020-02-23T13:51:13Z" finished-at="2020-02-23T13:51:14Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- acceptanceCriteria3 -->
+      </class> <!-- RestAPITest.AssurityTestAPI -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
